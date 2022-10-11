@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Raimundas</h1>
 <h3 align="center">Full stack web developer based in London, always looking for challenges and new experiences!</h3>
-<br/>
+<br>
 
-- 🔭 I’m currently working on **FriendsApp**
+- 🔭 I’m currently working at **Infosys**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 During my spare time **I am working on my Rails projects and learning new languages/technologies**
+
+- 👨‍💻 Currently working on **FriendsApp**
 
 - 📫 How to reach me **raimundas_radavicius@yahoo.com**
 
-<br/>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raimundas-radavicius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raimundas-radavicius" height="30" width="40" /></a>
