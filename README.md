@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raimundas</h1>
 <h3 align="center">Full stack web developer based in London, always looking for challenges and new experiences!</h3>
 <br/>
+
 - 🔭 I’m currently working on **FriendsApp**
 
 - 🌱 I’m currently learning **Java**
