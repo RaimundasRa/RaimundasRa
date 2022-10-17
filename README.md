@@ -2,13 +2,15 @@
 <h3 align="center">Full stack web developer based in London, always looking for challenges and new experiences!</h3>
 <br>
 
-- 🔭 I’m currently working at **Infosys**
+- 🔭 Currently working at **Infosys**
 
-- 🌱 During my spare time **I am working on Rails projects and learning new languages/technologies**
+- 🌱 During my spare time I like to build Rails projects + learn new languages/technologies
 
-- 👨‍💻 At the moment building **FriendsApp**
+- 👨‍💻 At the moment I'm building **MyBlog** app
 
-- 📫 Contact me **raimundas_radavicius@yahoo.com**
+- 📫 Reach out to me via **raimundas_radavicius@yahoo.com**
+
+- 🏋️‍♂️ Wannabe powerlifter
 
 <br>
 <h3 align="left">Connect with me:</h3>
