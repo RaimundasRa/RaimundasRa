@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working at **Infosys**
 
-- 🌱 During my spare time **I am working on my Rails projects and learning new languages/technologies**
+- 🌱 During my spare time **I am working on Rails projects and learning new languages/technologies**
 
-- 👨‍💻 Currently working on **FriendsApp**
+- 👨‍💻 At the moment building **FriendsApp**
 
-- 📫 How to reach me **raimundas_radavicius@yahoo.com**
+- 📫 Contact me **raimundas_radavicius@yahoo.com**
 
 <br>
 <h3 align="left">Connect with me:</h3>
