@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Raimundas</h1>
-<h3 align="center">Full stack web developer based in London, always looking for challenges and new experiences!</h3>
+<h3 align="center">Full stack web developer, always looking for challenges and new experiences!</h3>
 <br>
 
-- 👨‍💻 During my spare time I like to build Rails apps + learn new languages/technologies
+- 👨‍💻 During my spare time I like to build web apps + learn new languages/tools
 
-- 🛠 At the moment I'm building **MyBlog** app
+- 🛠 At the moment I'm building **MyBlog** app using Rails
 
 - 📫 Reach out to me via **raimundas_radavicius@yahoo.com**
 
