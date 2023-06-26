@@ -4,7 +4,7 @@
 
 - 👨‍💻 During my spare time I like to build web apps + learn new languages/tools
 
-- 🛠 At the moment I'm building **Budget Planner** app using React
+- 🛠 At the moment I'm building **Expense Tracker** app with MERN stack
 
 - 📫 Reach out to me via **raimundas_radavicius@yahoo.com**
 
