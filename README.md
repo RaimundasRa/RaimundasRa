@@ -8,7 +8,6 @@
 
 - 📫 Reach out to me via **raimundas_radavicius@yahoo.com**
 
-- 🏋️‍♂️ Wannabe powerlifter
 
 <br>
 
